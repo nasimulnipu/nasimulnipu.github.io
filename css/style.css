@@ -1,3 +1,14 @@
 body{
     font-family: 'Open Sans', sans-serif;
 }
+.banner-container{
+    background-color: aquamarine;
+}
+.banner-column{
+    background-color: #081621;
+
+}
+
+.navbar-container{
+    background-color: #130101;
+}
