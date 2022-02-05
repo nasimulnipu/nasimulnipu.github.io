@@ -12,3 +12,25 @@ body{
 .navbar-container{
     background-color: #130101;
 }
+.about-container{
+    background-color:#40873D ;
+}
+
+.education-container{
+    background-color: #ACB5B6;
+}
+
+.redtype-color{ 
+    color: #C23226 ;
+    font-weight: bold;
+}
+
+.circle{
+    background-color: #C23226;
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+}
+.project-container{
+    background-color: lightblue;
+}
